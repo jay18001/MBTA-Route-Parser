@@ -1,0 +1,3 @@
+github "alexeyxo/protobuf-swift" == 2.4.4
+github "jay18001/APLSlideMenu" == 0.2.1
+github "stephencelis/SQLite.swift" ~> 0.10.1
